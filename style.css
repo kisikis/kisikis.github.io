@@ -1,3 +1,9 @@
 body {background-color:#111111;}
 h1 {color:#aa0022;}
 p {color:#eeeeee;}
+#header {
+ color:#222288
+ position:absolute;
+ top:0;
+ width:100%;
+}
