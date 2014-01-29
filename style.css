@@ -1,6 +1,12 @@
-body {background-color:#111111;}
-h1 {color:#aa0022;}
-p {color:#eeeeee;}
+body {
+ background-color:#111111;
+}
+h1 {
+ color:#aa0022;
+}
+p {
+ color:#eeeeee;
+}
 #header {
  background-color:#222288
 }
