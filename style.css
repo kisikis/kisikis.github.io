@@ -1,16 +1,25 @@
 body {
  background-color:#111111;
 }
+
 h1 {
  color:#aa0022;
 }
+
 p {
  color:#eeeeee;
 }
+
 #header {
  position:fixed;
  top:0px;
  left:0px;
  width:100%;
  background-color:#222288
+}
+
+#main {
+ position:relative;
+ top:40px;
+ left:25px;
 }
